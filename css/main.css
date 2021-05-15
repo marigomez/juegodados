@@ -1,0 +1,40 @@
+body{
+	background-image:url("https://www.wallpapertip.com/wmimgs/48-482450_victorian-blue-wallpaper-wallpaper.jpg");
+}
+
+.lado{
+  text-align:center;
+  font-size:20px;
+}
+
+#ejercicio{
+  font-family:Verdana;
+  color:white;
+}
+
+.dado{
+  background-image:url(https://i.pinimg.com/originals/0b/61/ba/0b61ba096406865f0e76a9b07e36dc69.png);
+  background-position:-803px;
+  width:157px;
+  height:156px;
+}
+#contenedor_dados{
+  display:flex;
+  width:315px;
+  margin:0 auto;
+}
+
+#boton_tirar{
+  display:block;
+  width:100px;
+  height:60px;
+  margin:10px auto;
+  background-color:#90e0ef;
+  color:#F2D857;
+  border:0;
+  border-radius:10px;
+  cursor:pointer;
+  font-family:Verdana;
+  color:white;
+  box-sizing:box-shadow;
+}
