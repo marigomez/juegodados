@@ -6,6 +6,8 @@ que en conjunto hagan funcionar el juego.
 
 
 -Correos de los creadores:
-mariana.gomeza@upb.edu.co
-yeison.munoz@upb.edu.co
-jesus.arrieta@upb.edu.co
+Mariana Gomez Aguirre: mariana.gomeza@upb.edu.co
+
+Yeison Andres Muñoz :yeison.munoz@upb.edu.co
+
+Jesus David Arrieta Acosta: jesus.arrieta@upb.edu.co
